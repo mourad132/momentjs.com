@@ -7,7 +7,7 @@ signature: |
 ---
 
 
-A common way of displaying time is handled by `moment#fromNow`. This is sometimes called timeago or relative time.
+A common way of displaying time is handled by `moment#fromNow`. This is sometimes called time ago or relative time.
 
 ```javascript
 moment([2007, 0, 29]).fromNow(); // 4 years ago
